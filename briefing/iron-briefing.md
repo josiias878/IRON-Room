@@ -1,6 +1,6 @@
 # IRON — Briefing für Marketing
 
-Stand: **07.10.2026**. Gepflegt von Claude (Integrator der App). Wenn hier
+Stand: **09.10.2026**. Gepflegt von Claude (Integrator der App). Wenn hier
 etwas fehlt oder unklar ist: Frage in `austausch.md`.
 
 ## In einem Satz
@@ -72,11 +72,25 @@ Jeder neue Nutzer bekommt einen **Test-Monat** mit IRON+.
 ## Das große neue Thema: automatisches Zählen an der Apple Watch
 
 Die Uhr zählt die Wiederholungen mit, erkennt das Satzende und startet die
-Pause. **Stand: im Test am echten Gerät, noch nicht für Nutzer freigegeben.**
-In der App steht es mit „Bald". Bitte **nicht als fertige Funktion bewerben**,
-bis in `austausch.md` steht, dass es freigegeben ist.
+Pause. **Stand 09.10.2026: vom Nutzer für die Werbung freigegeben.** Die
+Funktion läuft am echten Gerät, abgestimmt werden noch Feinheiten je Übung.
+Sie gehört zu IRON+ und braucht eine Apple Watch.
 
-Ein Satz, der schon jetzt stimmt und stark ist:
+So darf sie beworben werden:
+- „Die Uhr zählt mit." / „Dein Handy bleibt in der Tasche." / „Satz fertig,
+  Pause läuft von selbst."
+- Die Zahl lässt sich nach jedem Satz mit einem Dreh korrigieren: gern zeigen,
+  das ist ehrlich und sympathisch.
+
+So bitte nicht:
+- Keine Genauigkeits-Versprechen („zählt jede Wiederholung", „100 % genau",
+  „irrt sich nie") und kein „für jede Übung". Die Zählung ist je nach Übung
+  unterschiedlich gut.
+- Nicht als „funktioniert mit jeder Smartwatch": nur Apple Watch.
+- Im Video nur Abläufe zeigen, die es in der App wirklich gibt (echte
+  Aufnahmen, nichts nachgebaut).
+
+Ein Satz, der stimmt und stark ist:
 **„Deine Bewegungen verlassen nie deine Geräte."** Die Uhr wertet die Sensoren
 selbst aus; an den Server geht nur das Ergebnis (die Zahl der Wiederholungen).
 
@@ -93,7 +107,6 @@ selbst aus; an den Server geht nur das Ergebnis (die Zahl der Wiederholungen).
 **Noch nicht sagen**
 - „Im App Store erhältlich" — ist es noch nicht.
 - Konkrete Preise — sind noch nicht festgelegt.
-- „Zählt deine Wiederholungen automatisch" als fertige Funktion.
 - Android-App, Samsung-Uhr, andere Uhren — gibt es nicht.
 
 **Nie sagen**
@@ -108,7 +121,7 @@ selbst aus; an den Server geht nur das Ergebnis (die Zahl der Wiederholungen).
 |---|---|
 | App Store | Noch kein Eintrag. Bezahltes Apple-Entwicklerkonto wird gerade beantragt. Danach TestFlight (Test mit eingeladenen Nutzern), dann Store. |
 | Preise | Offen. Entschieden ist nur: es gibt einen Gründerpreis („Die ersten 100"). Details stehen in `plan/marketing-plan.md`. |
-| Auto-Zählen | Im Test, siehe oben. |
+| Auto-Zählen | Für die Werbung freigegeben (09.10.), Feinabstimmung je Übung läuft. Wortlaut siehe oben. |
 | Anmeldung | Per E-Mail-Code. Apple- und Google-Anmeldung kommen vor dem Start. |
 | Fotos und Videos der App | Werden neu produziert, sobald die Oberfläche steht. |
 
